@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/haozibi/zlog"
+	"github.com/mybee/zlog"
 	"github.com/pkg/errors"
 )
 

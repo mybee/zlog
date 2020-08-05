@@ -1,4 +1,4 @@
-module github.com/haozibi/zlog
+module github.com/mybee/zlog
 
 go 1.13
 

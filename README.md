@@ -1,6 +1,6 @@
 ![logo](logo.png)
 
-[![Build Status](https://travis-ci.org/haozibi/zlog.svg?branch=master)](https://travis-ci.org/haozibi/zlog) [![Coverage Status](https://coveralls.io/repos/github/haozibi/zlog/badge.svg?branch=master)](https://coveralls.io/github/haozibi/zlog?branch=master) [![GoDoc](https://godoc.org/github.com/haozibi/zlog?status.svg)](https://godoc.org/github.com/haozibi/zlog) [![Go Report Card](https://goreportcard.com/badge/github.com/haozibi/zlog)](https://goreportcard.com/report/github.com/haozibi/zlog) [![license](https://img.shields.io/github/license/haozibi/zlog.svg)](https://github.com/haozibi/zlog)
+[![Build Status](https://travis-ci.org/mybee/zlog.svg?branch=master)](https://travis-ci.org/mybee/zlog) [![Coverage Status](https://coveralls.io/repos/github/mybee/zlog/badge.svg?branch=master)](https://coveralls.io/github/mybee/zlog?branch=master) [![GoDoc](https://godoc.org/github.com/mybee/zlog?status.svg)](https://godoc.org/github.com/mybee/zlog) [![Go Report Card](https://goreportcard.com/badge/github.com/mybee/zlog)](https://goreportcard.com/report/github.com/mybee/zlog) [![license](https://img.shields.io/github/license/mybee/zlog.svg)](https://github.com/mybee/zlog)
 
 # zlog
 
@@ -9,7 +9,7 @@ Just Log Basic On [zerolog](https://github.com/rs/zerolog)
 ## Install
 
 ```shell
-$ go get -u github.com/haozibi/zlog
+$ go get -u github.com/mybee/zlog
 ```
 
 ## Demo
@@ -21,7 +21,7 @@ import (
 	"fmt"
 	"os"
 
-	"github.com/haozibi/zlog"
+	"github.com/mybee/zlog"
 	"github.com/pkg/errors"
 )
 
